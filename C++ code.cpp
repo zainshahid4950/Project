@@ -5,7 +5,7 @@ class CustomerNode
 		public:
 	        int customer_id;
 	        int item_purchased;
-		int itemhhh;
+		int itemh;
 	        string customer_name;
 	        CustomerNode* left;
 	        CustomerNode* right;
